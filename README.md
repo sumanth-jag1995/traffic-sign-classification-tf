@@ -1,2 +1,2 @@
-# traffic-sign-classification-tf
-Traffic sign classification using tensorflow
+# Traffic Sign Classification
+End to End Traffic sign classification using tensorflow.
