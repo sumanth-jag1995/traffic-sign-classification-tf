@@ -5,3 +5,5 @@ scikit-learn
 tensorflow
 tensorflow_hub
 opencv-python
+pillow
+streamlit
