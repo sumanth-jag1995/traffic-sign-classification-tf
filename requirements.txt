@@ -4,6 +4,6 @@ numpy
 scikit-learn
 tensorflow
 tensorflow_hub
-opencv-python
+opencv-python-headless
 pillow
 streamlit
